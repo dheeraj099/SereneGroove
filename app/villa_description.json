@@ -1,0 +1,22 @@
+[
+    {
+        "villa": "Villa Aranya",
+        "capacity": "Room for 4 guests",
+        "description": "Tucked deep within the lush greenery, Villa Aranya blends Kerala\u2019s forest charm with spacious modern living. Wide verandahs, airy rooms, and cozy corners create a sanctuary where the forest feels like an extension of your home."
+    },
+    {
+        "villa": "Villa Vrindavanam",
+        "capacity": "Room for 4 guests",
+        "description": "Overlooking the Arabian Sea, Villa Vrindavanam offers breathtaking sunset views and coastal elegance. The open layout and sea breeze invite you to unwind in true tropical style."
+    },
+    {
+        "villa": "Villa Megham",
+        "capacity": "Room for 2 guests",
+        "description": "Perched on a hillside, Villa Megham is a romantic escape surrounded by fragrant spice plantations. With private balconies and a plunge pool, it\u2019s perfect for a serene getaway."
+    },
+    {
+        "villa": "Villa Theeram",
+        "capacity": "Room for 8 guests",
+        "description": "A luxurious retreat with traditional Kerala architecture, Villa Theeram features grand interiors and a central courtyard. Ideal for large families or groups seeking comfort and culture."
+    }
+]
